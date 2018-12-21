@@ -1,0 +1,19 @@
+body {
+  background-color: #EEE;
+}
+
+#main {
+  float: left;
+  width: 70%;
+}
+
+#sidebar {
+  float: left;
+  width: 30%;
+  background-color: gray;
+  height: 100vh;
+}
+
+.song:nth-child(even) {
+  background-color: #fff;
+}
